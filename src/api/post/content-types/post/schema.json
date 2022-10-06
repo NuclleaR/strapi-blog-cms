@@ -21,10 +21,6 @@
       "type": "richtext",
       "required": true
     },
-    "draft": {
-      "type": "boolean",
-      "default": true
-    },
     "featuredImage": {
       "type": "media",
       "multiple": false,
